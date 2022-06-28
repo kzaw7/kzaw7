@@ -9,7 +9,7 @@ I'm Khine ✨ ✨
 - 👯 I’m looking to collaborate on both frontend & backend.
 - 📫 How to reach me: khinekzaw7@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm an adult third culture kid and love to earn language.
+- ⚡ Fun fact: I'm an adult third culture kid and love to learn language.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzaw7)](https://github.com/kzaw7/github-readme-stats)
 
