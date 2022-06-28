@@ -3,7 +3,6 @@
 
 I'm Khine ✨ ✨ 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on projects from work.
 - 🌱 I’m currently learning JAVA & Angular CLI.
