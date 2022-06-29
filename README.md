@@ -11,6 +11,6 @@ I'm Khine ✨ ✨
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an adult third culture kid and love to learn language.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzaw7)](https://github.com/kzaw7/github-readme-stats)
+[![Khine's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzaw7)](https://github.com/kzaw7/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzaw7&langs_count=5)](https://github.com/kzaw7/github-readme-stats)
