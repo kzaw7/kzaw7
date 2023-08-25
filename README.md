@@ -4,8 +4,8 @@
 I'm Khine ✨ ✨ 
 
 
-- 🔭 I’m currently working on projects from work.
-- 🌱 I’m currently learning JAVA & Angular CLI.
+- 🔭 I’m currently working on warming up my coding skills.
+- 🌱 I’m currently working on a Python project for school.
 - 👯 I’m looking to collaborate on both frontend & backend.
 - 📫 How to reach me: khinekzaw7@gmail.com
 - 😄 Pronouns: she/her
