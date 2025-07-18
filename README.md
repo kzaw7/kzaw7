@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Khine ✨ ✨ 
+I'm Khine (Katy) ✨ ✨ 
 
 
 - 🔭 I’m currently working on warming up my coding skills.
